@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:9
+-keep class com.galaxy.ankialert.MainActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:59
+-keepclassmembers class * { *** saveSettings(...); }
+
+# onClick res/layout/main.xml #generated:25
+-keepclassmembers class * { *** showTimePickerDialog(...); }
+

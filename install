@@ -1,0 +1,1 @@
+ant clean && ant debug && adb uninstall com.galaxy.ankialert && adb install bin/AnkiAlert-debug.apk
